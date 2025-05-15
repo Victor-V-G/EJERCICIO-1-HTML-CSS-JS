@@ -1,0 +1,8 @@
+
+.background-img{
+    background-image: url(img/bg-intro-desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh !important;
+}
