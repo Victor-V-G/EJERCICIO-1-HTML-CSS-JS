@@ -2,8 +2,19 @@ html{
     background-color: hsl(0, 100%, 74%);
 }
 
-h1{
+#h1-div-1{
     font-family: system-ui;
     font-size: 55px;
     color: rgb(236, 221, 221);
+    margin-bottom: 20px;
+
+}
+
+#p-div-1{
+    font-family: system-ui;
+    font-size: 20px;
+    color: rgb(236, 221, 221);
+    text-align: justify;
+    margin: 80px;
+    margin-top: 1px;
 }
